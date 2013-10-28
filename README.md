@@ -21,7 +21,7 @@ Motifor項目是[麥盾](http://mindon.github.io)業餘時間進行的興趣開�
 
 您的慷慨贊助能激勵[麥盾](http://mindon.github.io)開發更多免費閱讀應用:-) 
 
-[【馬上贊助 $6.66 支持Motifor項目】](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P35242S2424TY)
+[【贊助 $1.11 支持Motifor項目】](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P35242S2424TY)
 
 ----------
 
